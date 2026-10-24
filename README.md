@@ -95,7 +95,7 @@ The correlation between Price and Number of Products Sold, Shipping time and Shi
 
 ### 7. `Dashboard`
 - The final Dashboard to visualize trends in the supply chain.
-<img width="690" height="531" alt="Screenshot 2026-10-14 204756" src="https://github.com/user-attachments/assets/4def31e6-bb9d-4183-a90b-3f9bdec2bc43" />
+<img width="695" height="566" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/b36c9cb4-f157-41a6-957e-004879d7e56d" />
 
 ## Key Insights
 + Total Revenue Generated is $577,604.82 and Total Profit is $456,048.57, and Total Units Sold is 46,726 units of which is skincare is the highest contributor on all counts and Cosmetics has the least amount of units sold and makes the least revenue and profit. 
